@@ -38,4 +38,9 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  
+
+# Add Binder launch button
+launch_buttons:
+  notebook_interface: "jupyterlab"  # or "classic" for classic notebook interface
+  binderhub_url: "https://mybinder.org"
+  thebe: false
