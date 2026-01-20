@@ -1,4 +1,4 @@
-# Clean and Reproducible Code - a short workshop
+# Clean, Tested and Reusable Code - a short workshop
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/KamitaniLab%2FClean_Reproducible_Code/main)
 [![License](https://img.shields.io/github/license/KamitaniLab/Clean_Reproducible_Code)](https://github.com/KamitaniLab/Clean_Reproducible_Code)
@@ -6,7 +6,7 @@
 [![Issues](https://img.shields.io/github/issues/KamitaniLab/Clean_Reproducible_Code)](https://github.com/KamitaniLab/Clean_Reproducible_Code/issues)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/KamitaniLab/Clean_Reproducible_Code)
 
-Often overlooked but tremendously important: clean and reproducible code is the basis for any type of computational work, no matter if in academia or industry. But what does this actually refer to, what does it entail and what tools can be used to make it easier/ensure quality?
+Often overlooked but tremendously important: clean, tested and reusable code is the basis for any type of computational work, no matter if in academia or industry. But what does this actually refer to, what does it entail and what tools can be used to make it easier/ensure quality?
 
 In this short workshop, we will explore the respective basis, including:
 
