@@ -1,24 +1,24 @@
 # Overview
 
-Often overlooked but tremendously important: clean and reproducible code is the basis for any type of computational work, no matter if in academia or industry. But what does this actually refer to, what does it entail and what tools can be used to make it easier/ensure quality?
+Often overlooked but tremendously important: clean, tested and reusable code is the basis for any type of computational work, no matter if in academia or industry. But what does this actually refer to, what does it entail and what tools can be used to make it easier/ensure quality?
 
 In this short workshop, we will explore the respective basis, including:
 
 
-- [Code formatting, styling and linting](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_formatting.html)
-- [Code testing](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_testing.html)
-- [Continuous integration](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/CI_CD.html)
+- [Code formatting, styling and linting](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/code_formatting.html)
+- [Code testing](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/code_testing.html)
+- [Continuous integration](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/CI_CD.html)
 
 These topics will be explored based on examples provided by the organizers with the option to also discuss examples brought by the participants. 
 
-All materials are published as a [JupyterBook](https://KamitaniLab.github.io/Clean_Reproducible_Code). 
+All materials are published as a [JupyterBook](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code). 
 
-We will further explain the aspects, as well as the `setup`, etc. below. For a precise outline of this workshop, please consult the respective [page](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/overview_code_form_test.html). 
+We will further explain the aspects, as well as the `setup`, etc. below. For a precise outline of this workshop, please consult the respective [page](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/overview_code_form_test.html). 
 
 
 ## The framework and setup
 
-The entire workshop will be conducted via the [Jupyter ecosystem](https://jupyter.org/), utilizing the [python programming language](https://www.python.org/) for all examples. All materials will be provided within the [Jupyter Book](https://jupyterbook.org/intro.html) format you're currently look, free for everyone to check and try out, as well as utilize further. To help folks that don't have any experience with these resources, we compiled a set of tutorials that participants can go through within the [prerequisite section](https://KamitaniLab.github.io/Clean_Reproducible_Code/prerequisites.html). While this won't be enough to go past basic skills, we still hope it will be useful to familiarize yourself with core aspects that will help during the workshop. Each of these tutorials, as well as "main" materials will be in [jupyter notebooks](https://jupyter.org/) and contain a mixture of explanations and code and presented as a "slide show" during the workshop. They can be just viewed, or either run interactively via cloud instances (via [mybinder](https://mybinder.org/)) or locally. Depending on a given participant's computational resources and infrastructure, we provide multiple ways to participate in the workshop as outlined in the [Setup](https://KamitaniLab.github.io/Clean_Reproducible_Code/setup.html) section.
+The entire workshop will be conducted via the [Jupyter ecosystem](https://jupyter.org/), utilizing the [python programming language](https://www.python.org/) for all examples. All materials will be provided within the [Jupyter Book](https://jupyterbook.org/intro.html) format you're currently look, free for everyone to check and try out, as well as utilize further. To help folks that don't have any experience with these resources, we compiled a set of tutorials that participants can go through within the [prerequisite section](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/prerequisites.html). While this won't be enough to go past basic skills, we still hope it will be useful to familiarize yourself with core aspects that will help during the workshop. Each of these tutorials, as well as "main" materials will be in [jupyter notebooks](https://jupyter.org/) and contain a mixture of explanations and code and presented as a "slide show" during the workshop. They can be just viewed, or either run interactively via cloud instances (via [mybinder](https://mybinder.org/)) or locally. Depending on a given participant's computational resources and infrastructure, we provide multiple ways to participate in the workshop as outlined in the [Setup](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/setup.html) section.
 
 ## Instructors
 
@@ -70,10 +70,10 @@ Pleaes note that the details below refer to the first instance of this workshop.
 
 | Date | Time  | Topic |
 |:---:|:---:|:---:|
-| 2026/01/21 | 10 AM - 12 PM | [Code formatting](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_formatting.html)  |
-| 2026/01/22 | 10 AM - 12 PM | [Code Testing I](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_testing.html)  |
-| 2026/01/26 | 3  PM - 5  PM | [Code Testing II](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_testing.html)  |
-| 2026/01/27 | 1:15 PM - 3:15 PM | [Continuous Integration](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/CI_CD.html)  |
+| 2026/01/21 | 10 AM - 12 PM | [Code formatting](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/code_formatting.html)  |
+| 2026/01/22 | 10 AM - 12 PM | [Code Testing I](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/code_testing.html)  |
+| 2026/01/26 | 3  PM - 5  PM | [Code Testing II](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/code_testing.html)  |
+| 2026/01/27 | 1:15 PM - 3:15 PM | [Continuous Integration](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/CI_CD.html)  |
 
 ::::{card-carousel} 3
 
@@ -81,11 +81,11 @@ Pleaes note that the details below refer to the first instance of this workshop.
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/code_formatting.html
+:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/workshop/materials/pages/code_formatting.html
 
 **Code formatting**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_formatting_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Tested_Reusable_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_formatting_logo.png
 :height: 100
 ```
 
@@ -98,11 +98,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/code_testing.html
+:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/workshop/materials/pages/code_testing.html
 
 **Code testing**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_testing_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Tested_Reusable_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_testing_logo.png
 :height: 100
 ```
 
@@ -115,11 +115,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/CI_CD.html
+:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/workshop/materials/pages/CI_CD.html
 
 **Continuous Integration**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/CI_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Tested_Reusable_Code/refs/heads/main/workshop/materials/static/workshop_graphics/CI_logo.png
 :height: 100
 ```
 
@@ -140,19 +140,19 @@ For this class you will need frequent access to a computer. None of the analyses
 
 ### How do I get all the software and do I have to apply for a loan to get it?
 
-Don't worry at all. First, in order to help you get all the software required for the course, a [comprehensive installation instruction](https://KamitaniLab.github.io/Clean_Reproducible_Code/setup.html) was compiled. In a step-by-step manner it guides you through the installation process, covering several `OS`: `Windows`, `Mac OS X` and `Linux`. Second, everything will be completely free of charge as we will only use publicly available [open-source software](https://en.wikipedia.org/wiki/Open-source_software). Why? Because teaching participants via [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) is just not fair and won't help anyone: participants have to obtain licenses or use those from the university (which usually doesn't have enough for everyone), leading to tremendous problems regarding inequity now and in the future. Additionally, [opens-source software](https://en.wikipedia.org/wiki/Open-source_software) can do everything, if not more, what [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) can and is furthermore usually better supported, tested and documented, creating a fantastic sense of community. 
+Don't worry at all. First, in order to help you get all the software required for the course, a [comprehensive installation instruction](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/setup.html) was compiled. In a step-by-step manner it guides you through the installation process, covering several `OS`: `Windows`, `Mac OS X` and `Linux`. Second, everything will be completely free of charge as we will only use publicly available [open-source software](https://en.wikipedia.org/wiki/Open-source_software). Why? Because teaching participants via [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) is just not fair and won't help anyone: participants have to obtain licenses or use those from the university (which usually doesn't have enough for everyone), leading to tremendous problems regarding inequity now and in the future. Additionally, [opens-source software](https://en.wikipedia.org/wiki/Open-source_software) can do everything, if not more, what [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) can and is furthermore usually better supported, tested and documented, creating a fantastic sense of community. 
 
 <p align="center"><iframe src="https://giphy.com/embed/CTX0ivSQbI78A" width="240" height="177" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><p align="center"><a href="https://giphy.com/gifs/internet-computer-technology-CTX0ivSQbI78A">via GIPHY</a></p></p>
 
 ### Where is everything?
 
-All materials (slides, lecture demo notebooks, etc.) will be available on the [workshop's website](https://KamitaniLab.github.io/Clean_Reproducible_Code/intro.html), i.e. the one you're looking at right now. Everything will be completely open and free to use, thus constituting an [open educational resource](https://en.wikipedia.org/wiki/Open_educational_resources) you are free to explore, enhance and share. Thus, this website and all materials will also remain up for the entire duration of the workshop and beyond, ideally to the end of the internet. The usage of this resource and the materials therein will be explained at the beginning and throughout the workshop.  
+All materials (slides, lecture demo notebooks, etc.) will be available on the [workshop's website](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/intro.html), i.e. the one you're looking at right now. Everything will be completely open and free to use, thus constituting an [open educational resource](https://en.wikipedia.org/wiki/Open_educational_resources) you are free to explore, enhance and share. Thus, this website and all materials will also remain up for the entire duration of the workshop and beyond, ideally to the end of the internet. The usage of this resource and the materials therein will be explained at the beginning and throughout the workshop.  
 
 <p align="center"><iframe src="https://giphy.com/embed/c20UV66B7zCWA" width="240" height="155" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><p align="center"><a href="https://giphy.com/gifs/superman-phone-looking-c20UV66B7zCWA">via GIPHY</a></p></p>
 
 ### Syllabus and Text
 
-As noted above, this page serves as the syllabus for this course, with the precise outline indicated in the [respective section](https://KamitaniLab.github.io/Clean_Reproducible_Code/outline.html). This syllabus is subject to change; please check-in frequently for learning about any changes to the syllabus.
+As noted above, this page serves as the syllabus for this course, with the precise outline indicated in the [respective section](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/outline.html). This syllabus is subject to change; please check-in frequently for learning about any changes to the syllabus.
 
 Additional reading material might be added but will always be open & free with participants being informed about any addition.
 
@@ -160,7 +160,7 @@ Additional reading material might be added but will always be open & free with p
 
 ### Code of conduct
 
-This course has a `Code of conduct`. Please inform yourself about the specifics by carefully reading through the [respective section](https://KamitaniLab.github.io/Clean_Reproducible_Code/CoC.html).
+This course has a `Code of conduct`. Please inform yourself about the specifics by carefully reading through the [respective section](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/CoC.html).
 
 <p align="center"><iframe src="https://giphy.com/embed/l5s71uAp3CzKwxwkoZ" width="240" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><p align="center"><a href="https://giphy.com/gifs/theoffice-nbc-the-office-tv-l5s71uAp3CzKwxwkoZ">via GIPHY</a></p></p>
 
@@ -173,13 +173,13 @@ That said, to ensure that we’re respecting everyone's time and thus will mainl
 
 If you have:
 
-- questions about course content - these are awesome! We want everyone to see them and have their questions answered too, so either use the [hypothes.is](https://web.hypothes.is/) plugin, the `e-mail` list or the [GitHub repository](https://github.com/KamitaniLab/Clean_Reproducible_Code/-/issues).
+- questions about course content - these are awesome! We want everyone to see them and have their questions answered too, so either use the [hypothes.is](https://web.hypothes.is/) plugin, the `e-mail` list or the [GitHub repository](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code/-/issues).
 
-- a technical assignment question - come to office hours. Answering technical questions is often best accomplished ‘in person’ where we can discuss the question and talk through ideas. However, if that is not possible, post your question the [GitHub repository](https://github.com/KamitaniLab/Clean_Reproducible_Code/-/issues). Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
+- a technical assignment question - come to office hours. Answering technical questions is often best accomplished ‘in person’ where we can discuss the question and talk through ideas. However, if that is not possible, post your question the [GitHub repository](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code/-/issues). Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
 
-- been stuck on something for a while (>30min) and aren’t even really sure where to start - it can be frustrating and it may not always be obvious what is going wrong or why something isn’t working. That’s OK - we’ve all been there! IF you are stuck, you can and should reach out for help, even if you aren’t exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (via Email or [GitHub repository](https://github.com/KamitaniLab/Clean_Reproducible_Code/-/issues)). If you don’t have a specific question, include the information you have (what you’re stuck on, the code you’ve been trying that hasn’t been happening, and/or the error messages you’ve been getting).
+- been stuck on something for a while (>30min) and aren’t even really sure where to start - it can be frustrating and it may not always be obvious what is going wrong or why something isn’t working. That’s OK - we’ve all been there! IF you are stuck, you can and should reach out for help, even if you aren’t exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (via Email or [GitHub repository](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code/-/issues)). If you don’t have a specific question, include the information you have (what you’re stuck on, the code you’ve been trying that hasn’t been happening, and/or the error messages you’ve been getting).
 
-- questions about course logistics - first, check the [overview](https://KamitaniLab.github.io/Clean_Reproducible_Code/overview.html). If you can’t find the answer there, first ask a classmate. If still unsure, make use of the [GitHub repository](https://github.com/KamitaniLab/Clean_Reproducible_Code/-/issues).
+- questions about course logistics - first, check the [overview](https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/overview.html). If you can’t find the answer there, first ask a classmate. If still unsure, make use of the [GitHub repository](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code/-/issues).
 
 - something super cool to share related to class or want to talk about a topic in further depth - feel free to post it, contact the organizers/instructors. 
 

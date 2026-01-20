@@ -5,16 +5,16 @@
 
 # Welcome
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/KamitaniLab%2FClean_Reproducible_Code/main)
-[![License](https://img.shields.io/github/license/KamitaniLab/Clean_Reproducible_Code)](https://github.com/KamitaniLab/Clean_Reproducible_Code)
-[![Contributors](https://img.shields.io/github/contributors/KamitaniLab/Clean_Reproducible_Code)](https://github.com/KamitaniLab/Clean_Reproducible_Code)
-[![Issues](https://img.shields.io/github/issues/KamitaniLab/Clean_Reproducible_Code)](https://github.com/KamitaniLab/Clean_Reproducible_Code/issues)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/KamitaniLab/Clean_Reproducible_Code)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/KamitaniLab%2FClean_Tested_Reusable_Code/main)
+[![License](https://img.shields.io/github/license/KamitaniLab/Clean_Tested_Reusable_Code)](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code)
+[![Contributors](https://img.shields.io/github/contributors/KamitaniLab/Clean_Tested_Reusable_Code)](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code)
+[![Issues](https://img.shields.io/github/issues/KamitaniLab/Clean_Tested_Reusable_Code)](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code/issues)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/KamitaniLab/Clean_Tested_Reusable_Code)
 
 
-Hello everyone and welcome to the `Clean and Reproducible Code` workshop at the [Kamitani Lab](https://kamitani-lab.ist.i.kyoto-u.ac.jp/)!
+Hello everyone and welcome to the `Clean, tested and reusable Code` workshop at the [Kamitani Lab](https://kamitani-lab.ist.i.kyoto-u.ac.jp/)!
 
-Within these pages, we provide information on how to follow the workshop, as well as respective materials. This [jupyter book](https://jupyterbook.org/intro.html) will include the used slides and code in a way that they can be explored in an interactive manner. You can navigate through the respective sections via the TOC on the left side and within sections via the TOC on the right side. The three symbols in the top allow to enable full screen mode, link to the underlying [github repository](https://github.com/KamitaniLab/Clean_Reproducible_Code) and allow you to download the contents as a pdf or jupyter notebook respectively. All of this awesomeness (talking about the infrastructure and resource) is possible through the dedicated and second to none work of the [Jupyter community](https://jupyter.org/community), specifically, the [Executable/Jupyter Book](https://executablebooks.org/en/latest/) and [mybinder project](https://mybinder.org/).
+Within these pages, we provide information on how to follow the workshop, as well as respective materials. This [jupyter book](https://jupyterbook.org/intro.html) will include the used slides and code in a way that they can be explored in an interactive manner. You can navigate through the respective sections via the TOC on the left side and within sections via the TOC on the right side. The three symbols in the top allow to enable full screen mode, link to the underlying [github repository](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code) and allow you to download the contents as a pdf or jupyter notebook respectively. All of this awesomeness (talking about the infrastructure and resource) is possible through the dedicated and second to none work of the [Jupyter community](https://jupyter.org/community), specifically, the [Executable/Jupyter Book](https://executablebooks.org/en/latest/) and [mybinder project](https://mybinder.org/).
 
 ````{margin}
 ```{warning}
@@ -30,10 +30,10 @@ Please visit this page again for further information.
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/overview.html
+:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/overview.html
 **Overview**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/overview_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Tested_Reusable_Code/refs/heads/main/workshop/materials/static/workshop_graphics/overview_logo.png
 :height: 100
 ```
 
@@ -46,11 +46,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/setup.html
+:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/setup.html
 
 **Course setup**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/setup_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Tested_Reusable_Code/refs/heads/main/workshop/materials/static/workshop_graphics/setup_logo.png
 :height: 100
 ```
 
@@ -66,11 +66,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/code_formatting.html
+:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/workshop/materials/pages/code_formatting.html
 
 **Code formatting**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_formatting_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Tested_Reusable_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_formatting_logo.png
 :height: 100
 ```
 
@@ -83,11 +83,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/code_testing.html
+:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/workshop/materials/pages/code_testing.html
 
 **Code testing**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_testing_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Tested_Reusable_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_testing_logo.png
 :height: 100
 ```
 
@@ -100,11 +100,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/CI_CD.html
+:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/workshop/materials/pages/CI_CD.html
 
 **Continuous Integration**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/CI_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Tested_Reusable_Code/refs/heads/main/workshop/materials/static/workshop_graphics/CI_logo.png
 :height: 100
 ```
 
@@ -117,8 +117,8 @@ Explore this section {fas}`arrow-right`
 
 # I've got a question!
 
-In case you have any questions or difficulties going through the workshop, please don’t hesitate a single second to get in touch with us. A great way to do this is to [open an issue](https://github.com/KamitaniLab/Clean_Reproducible_Code/-/issues) on the [github site of the Workshop](https://github.com/KamitaniLab/Clean_Reproducible_Code) (also possible via the github button at the top of the pages).
-We would also highly appreciate and value every feedback or idea or you might have (via [issues](https://github.com/KamitaniLab/Clean_Reproducible_Code/-/issues) or [hypothes.is annotation feature](https://web.hypothes.is/) on the right).
+In case you have any questions or difficulties going through the workshop, please don’t hesitate a single second to get in touch with us. A great way to do this is to [open an issue](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code/-/issues) on the [github site of the Workshop](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code) (also possible via the github button at the top of the pages).
+We would also highly appreciate and value every feedback or idea or you might have (via [issues](https://github.com/KamitaniLab/Clean_Tested_Reusable_Code/-/issues) or [hypothes.is annotation feature](https://web.hypothes.is/) on the right).
 
 ## Acknowledgements
 

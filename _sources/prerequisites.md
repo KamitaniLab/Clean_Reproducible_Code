@@ -42,9 +42,9 @@ How do you interact with your computer? In general, you as a user provide some `
 #### Materials 📓
 Please download the [example dataset provided here](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip).
 
-Please see the rendered version of the `jupyter notebook` [Introduction to the (unix) command line: bash](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/prerequisites/intro_to_shell.html) in the `ToC` on the left.
+Please see the rendered version of the `jupyter notebook` [Introduction to the (unix) command line: bash](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/prerequisites/intro_to_shell.html) in the `ToC` on the left.
 
-You can either run the respective `commands` in your `terminal` or in the `Jupyter Notebook` via following the steps outlined [here](https://kamitanilab.github.io/Clean_Reproducible_Code/setup.html#getting-the-course-content) and then selecting/opening the `materials/prerequisites/intro_to_shell.ipynb` file.
+You can either run the respective `commands` in your `terminal` or in the `Jupyter Notebook` via following the steps outlined [here](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/setup.html#getting-the-course-content) and then selecting/opening the `materials/prerequisites/intro_to_shell.ipynb` file.
 
 
 ## Introduction to Computational Environments
@@ -77,10 +77,10 @@ The big moment is finally here: after spending quite a bit of time exploring imp
 
 #### Materials 📓
 
-Please see the rendered version of the `jupyter notebook` [Introduction to Python](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/prerequisites/intro_python.html)
+Please see the rendered version of the `jupyter notebook` [Introduction to Python](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/prerequisites/intro_python.html)
  in the `ToC` on the left.
 
-You can either run the respective `commands` in your `ipython terminal` or in the `Jupyter Notebook` via following the steps outlined [here](https://kamitanilab.github.io/Clean_Reproducible_Code/setup.html#getting-the-course-content) and then selecting/opening the `materials/prerequisites/intro_to_python.ipynb` file.
+You can either run the respective `commands` in your `ipython terminal` or in the `Jupyter Notebook` via following the steps outlined [here](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/setup.html#getting-the-course-content) and then selecting/opening the `materials/prerequisites/intro_to_python.ipynb` file.
 
 ## Hakuna matata
 We can't stress this enough: it's all ok, don't let the imposter syndrome get the better of you.
