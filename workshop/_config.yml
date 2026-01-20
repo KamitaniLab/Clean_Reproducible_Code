@@ -1,0 +1,41 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Code formatting & testing
+author: KamitaniLab
+copyright: 2026-
+logo: https://64.media.tumblr.com/121e07a063d308de01ba11ab1bcea38e/0a7574154733db0d-99/s2048x3072/dc9ec383bb03fbe3f60e5162b7ee4a63d2d077f6.png
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: false
+
+# Exclude patterns
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", ".git", ".gitignore", "materials/static/**", "**tests/**", "**.py"]
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+sphinx:
+  config:
+    bibtex_reference_style: author_year  
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/KamitaniLab/Clean_Reproducible_Code  # URL of your repository
+  path_to_book: workshop  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
+  
