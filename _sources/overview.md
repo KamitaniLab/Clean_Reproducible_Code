@@ -81,7 +81,7 @@ Pleaes note that the details below refer to the first instance of this workshop.
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/workshop/materials/pages/code_formatting.html
+:link: https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/code_formatting.html
 
 **Code formatting**
 ^^^
@@ -98,7 +98,7 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/workshop/materials/pages/code_testing.html
+:link: https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/code_testing.html
 
 **Code testing**
 ^^^
@@ -115,7 +115,7 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Tested_Reusable_Code/workshop/materials/pages/CI_CD.html
+:link: https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/CI_CD.html
 
 **Continuous Integration**
 ^^^
